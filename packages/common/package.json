@@ -1,0 +1,29 @@
+{
+  "name": "common",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "xuyuanyuan <xuyuanyuanbj@fenbi.com>",
+  "homepage": "https://github.com/xuyoo/share-demo#readme",
+  "license": "ISC",
+  "main": "lib/common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://npm.zhenguanyu.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuyoo/share-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/xuyoo/share-demo/issues"
+  }
+}
